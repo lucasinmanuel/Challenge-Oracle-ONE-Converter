@@ -1,5 +1,7 @@
 # Challenge Oracle ONE | Converter
 
+<img alt="Project status" title="Project status" src="https://badgen.net/badge/status/complete/green?icon=github">
+
 !['Conversion program'](./public/conversion-program.gif 'Conversion program')
 
 Project created for the challenge of ONE Oracle Next Education in partnership with Alura. This program converts currencies and temperatures.
